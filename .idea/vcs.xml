@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../data-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../data-platform/apps/bg_data_scrapers" vcs="Git" />
   </component>
 </project>
